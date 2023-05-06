@@ -1,4 +1,4 @@
-# JavaScript Advanced Functions: First-Class Functions Lab
+# JavaScript Advanced Functions: First-Class Functions Lab c
 
 ## Learning Goals
 
